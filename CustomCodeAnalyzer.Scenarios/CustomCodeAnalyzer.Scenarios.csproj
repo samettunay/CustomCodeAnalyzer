@@ -2,7 +2,4 @@
 	<PropertyGroup>
 		<TargetFramework>net4.8</TargetFramework>
 	</PropertyGroup>
-	<ItemGroup>
-		<ProjectReference Include="..\CustomCodeAnalyzer\CustomCodeAnalyzer.csproj" OutputItemType="Analyzer" />
-	</ItemGroup>
 </Project>

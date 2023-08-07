@@ -1,8 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<AssemblyName>CustomCodeAnalyzer</AssemblyName>
 		<ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+		<Description>Çeşitli analizörleri, yeniden düzenlemeleri vb. içeren bir kitaplık.</Description>
 		<DevelopmentDependency>true</DevelopmentDependency>
 		<EmbedUntrackedSources>true</EmbedUntrackedSources>
 		<EnableNETAnalyzers>true</EnableNETAnalyzers>
@@ -10,8 +11,15 @@
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<IncludeBuildOutput>false</IncludeBuildOutput>
 		<NoPackageAnalysis>true</NoPackageAnalysis>
+		<PackageId>CustomCodeAnalyzer</PackageId>
+		<PackageProjectUrl>https://github.com/samettunay/CustomCodeAnalyzer</PackageProjectUrl>
+		<PackageVersion>$(Version)</PackageVersion>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+		<RepositoryUrl>https://github.com/samettunay/CustomCodeAnalyzer</RepositoryUrl>
 		<RootNamespace>CustomCodeAnalyzer</RootNamespace>
 		<TargetFramework>netstandard2.0</TargetFramework>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<Authors>Samet Tunay</Authors>
 	</PropertyGroup>
 
   <ItemGroup>

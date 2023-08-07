@@ -11,6 +11,7 @@ namespace CustomCodeAnalyzer.Scenarios
         {
 
         }
+
         public virtual void TestVirtual()
         {
 
