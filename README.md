@@ -1,5 +1,8 @@
 # CustomCodeAnalyzer
 
+![error list](https://github.com/samettunay/CustomCodeAnalyzer/assets/79511355/09556c23-975b-4523-ae57-dc81a6cb1f36)
+
+
 ![virtual_error](https://github.com/samettunay/CustomCodeAnalyzer/assets/79511355/5fad6884-75e4-48ed-9058-eff02511623f)
 
 ![ReadError](https://github.com/samettunay/CustomCodeAnalyzer/assets/79511355/f1f4338b-02d8-4db9-9e7a-89fc731abf8a)
